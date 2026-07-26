@@ -1,4 +1,4 @@
-# Machine Learning Algorithms 
+# Machine Learning Algorithms  
 
 This repository contains implementations of popular Machine Learning algorithms using Python and Jupyter Notebook. These notebooks are useful for students, beginners, and anyone who wants to understand the basic concepts of Machine Learning through practical examples.
 
